@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi blandit felis magna, sit amet consectetur libero vulputate ut. Sed cursus ac urna eu pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi blandit felis magna, sit amet consectetur libero vulputate ut. Sed cursus ac urna eu pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
