@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Lucy
-tagline: Graphic Designer
+tagline: O Mundo das Luas
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
